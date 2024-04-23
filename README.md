@@ -116,7 +116,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/JhonesYure/JhonesYure/output/snake.svg" alt="Snake animation" />
-
-###
