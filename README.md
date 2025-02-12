@@ -6,11 +6,13 @@
 
 ###
 
-<h1 align="left">📚 Academic Training</h1>
+<h1 align="left">About Me</h1>
 
 ###
 
-<p align="left">✅ Web & mobile development technician - 2023 🎓<br><br>✅ Bachelor of Computer Science - 4/8 ⌛<br><br>✅ Bachelor of Software Engineering - 1/8 ⌛<br><br>✅ Specialization in Systems Security - 2022 🎓<br><br>✅ Specialization in JAVA - 2022 🎓<br><br>✅ Specialization in Power BI  - 2022 🎓<br><br>✅ Specialization in Data Analysis - 2021 🎓</p>
+<p align="left">I am a software engineer and developer passionate about creating innovative technological solutions. My experience encompasses a variety of languages and frameworks, allowing me to approach projects with a multifaceted perspective aligned with best development practices.
+
+Committed to continuous learning and adaptation to technological trends, I am always open to opportunities that allow me to apply and expand my skill set to positively impact the world through technology.</p>
 
 ###
 
