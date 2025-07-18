@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 **Projetos Recentes**
-📂 **[Lexus AI](https://github.com/jhonesyure/)**  
+📂 **[Lexis IA](https://github.com/jhonesyure/)**  
 Inteligência artificial 
 - **Tecnologias:** Python, Robot Framework
 - **Resultados:** Aumento de 60% nas entregas de projetos e desenvolvimento
