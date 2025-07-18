@@ -34,8 +34,6 @@ Projeto nas escolas: robótico de telemtria e controle
 ### ⭐ **Estatísticas GitHub**
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonesyure&show_icons=true&theme=default) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonesyure&layout=compact)     
 
-![GitHub Contributions](https://ghchart.rshah.org/jhonesyure)
-
 ---
 
 ### 🌍 **Vamos nos conectar?**
